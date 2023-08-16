@@ -6,5 +6,6 @@ public class DataType {
         System.out.println(78134); //number
         System.out.println(-3124);
         System.out.println(7.35234);
+        System.out.println(123 + 456);
     }
 }
