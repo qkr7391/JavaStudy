@@ -16,7 +16,7 @@ public class naming {
         String address = "Toronto";
 
         String _start="start";
-        String middle_underbar="middle";
+        String middle_under ="middle";
         String mix_with_7 = "12345";
 
         int size = 7;
