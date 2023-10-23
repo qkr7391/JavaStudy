@@ -6,8 +6,8 @@ public class comment {
 //        System.out.println("(5min before) Wedding will be start soon"); // - command D
         System.out.println("Wedding is start now");
 
-    int size = 120;
+   /* int size = 120;
     size = size+10; //130
-        System.out.println("size is " + size);
+        System.out.println("size is " + size);*/
     }
 }
