@@ -24,5 +24,8 @@ public class naming {
         int time_assume = 9;
         int min_time_8 = 100;
 
+        //constant
+        final String CODE = "KE987"
+
     }
 }
