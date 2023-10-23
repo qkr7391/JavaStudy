@@ -25,7 +25,7 @@ public class naming {
         int min_time_8 = 100;
 
         //constant
-        final String CODE = "KE987"
+        final String CODE = "KE987";
 
     }
 }
