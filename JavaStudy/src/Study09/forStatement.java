@@ -3,7 +3,6 @@ package Study09;
 public class forStatement {
     public static void main(String[] args) {
         //for statement
-
         for (int i = 0 ; i < 10; i++){
             System.out.println(i);
         }
