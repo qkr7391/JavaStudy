@@ -43,5 +43,22 @@ public class _continue {
             index++;
         }
         System.out.println("We're close today.");
+
+        //while #2
+//        int index = 0;
+//        while(true){
+//            index++;
+//            System.out.println("Number " + index + ", Your menu is ready.");
+//            if (index == noShow){
+//                System.out.println("Number " + index + ", NOSHOW, PASS");
+//                continue;
+//            }
+//            soldMenu++;
+//            if (soldMenu == max) {
+//                System.out.println("Today we are sold out for the menu.");
+//                break;
+//            }
+//        }
+//        System.out.println("We're close today.");
     }
 }
